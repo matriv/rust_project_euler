@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 round = "0.1.2"
 primes = "0.3.0"
+substring = "1.4.5"
 
 [dev-dependencies]
 pretty_assertions = "1.3.0"
